@@ -1,0 +1,71 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+  }
+
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    font-weight:bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    background-color: : #fff;
+  }
+  nav li{
+    padding-top:10px;
+  }
+  .navbar-nav  li a:hover {
+    color: #FA640E !important;
+  }
+
+  /* header section */
+  .bg-1 {
+    background: rgb(255,255,255); /* white */
+    background-image: linear-gradient(117deg, rgba(255,255,255,1) 0%, rgba(244,136,74,1) 84%, rgba(242,109,33,1) 100%);
+    color: #313131;
+    margin-top:15px;
+  }
+  .btn-main{
+  background-color:#FA640E;
+  color:#fff;
+  text-transform:uppercase;
+  padding-top:10px;
+  padding-bottom:10px;
+
+  }
+  video {
+  max-width: 100%;
+  height: auto;
+  padding:1rem;
+
+}
+
+/* our services section */
+.bg-2{
+    background-color: #F8F4F0;
+    color: #313131;
+    margin-top:15px;
+  }
+  h5{
+  text-transform:uppercase;
+  text-align:center;
+  }
+  h4{
+  text-align:justify-content;
+  }
+  p{
+  text-align:justify-content;
+  }
+
+  .btn-main1{
+  background-color:#FA640E;
+  color:#fff;
+  text-transform:uppercase;
+
+  }
+
+  
