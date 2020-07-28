@@ -4,7 +4,11 @@ body {
   }
   .container-fluid {
       padding: 70px;
+      margin-bottom:70px;
     }
+    .container-fluidfooter {
+        padding: 10px;
+      }
   .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
