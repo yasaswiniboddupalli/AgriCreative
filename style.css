@@ -79,19 +79,22 @@ h1{
   text-align:center;
   font-weight: bold;
   color:#707070;
+  font-size: 2rem;
   }
   h4{
   padding:15px 0;
+  font-size: 2rem;
   }
   p{
   color:#313131;
+  text-align: justify;
   }
 
   .btn-main1{
   background-color:#FA640E;
   color:#fff;
   text-transform:uppercase;
-
+  margin-bottom: 2em;
   }
 
   /* case study */
@@ -178,7 +181,6 @@ li{
  padding: 20px;
 }
 
-
    .container2 {
   position: relative;
   max-width: 800px;
@@ -221,4 +223,21 @@ position:relative;
   z-index:1;
 
 }
+
+/*general*/
+h4{
+padding:15px 0;
+}
+p{
+color:#313131;
+}
+h5{
+text-transform:uppercase;
+text-align:center;
+font-weight: bold;
+color:#707070;
+}
+
+
+
 }
