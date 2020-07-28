@@ -28,7 +28,7 @@ body {
   /* header section */
   .bg-1 {
     background: rgb(255,255,255); /* white */
-    background-image: linear-gradient(117deg, rgba(255,255,255,1) 0%, rgba(244,136,74,1) 84%, rgba(242,109,33,1) 100%);
+    background-image: linear-gradient(148deg, rgba(255,255,255,1) 57%, rgba(248,184,147,1) 74%, rgba(244,136,74,1) 77%, rgba(242,109,33,1) 100%);
     color: #313131;
     margin-top:15px;
   }
