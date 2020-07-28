@@ -58,6 +58,9 @@ body {
 
 }
 
+h1{
+  color:#313131;
+}
 /* our services section */
 .bg-2{
     background-color: #F8F4F0;
@@ -71,11 +74,10 @@ body {
   color:#707070;
   }
   h4{
-  text-align:center;
   padding:15px 0;
   }
   p{
-  text-align:center;
+  color:#313131;
   }
 
   .btn-main1{
@@ -101,7 +103,6 @@ body {
     margin:5px;
     }
     h2{
-    text-align:center;
     padding-top:0;
     padding-bottom:20px;
     }
@@ -112,6 +113,6 @@ body {
   }
 
   /* contact */
-.contact{
-  text-align:center;
+li{
+  list-style: none;
 }
