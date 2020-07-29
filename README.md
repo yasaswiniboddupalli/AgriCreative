@@ -1,2 +1,0 @@
-# AgriCreative
-Agricreative Landing page
